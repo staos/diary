@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_top">25dp</dimen>
+    <dimen name="head_image_height_width">75dp</dimen>
+    <dimen name="background_width">250dp</dimen>
+    <dimen name="head_image_margin_top">50dp</dimen>
+    <dimen name="popup_text_view_height">0.5px</dimen>
+    <dimen name="popup_button">15dp</dimen>
+    <dimen name="grid_size">120dp</dimen>
+    <dimen name="ten">15dp</dimen>
+    <dimen name="five">5dp</dimen>
+    <dimen name="wordSize">16sp</dimen>
+    <dimen name="one">0.5dp</dimen>
+    <dimen name="eleven">17dp</dimen>
+    <dimen name="autographSize">130dp</dimen>
+    <dimen name="nickNameSize">40dp</dimen>
+    <dimen name="feedbackSize">200dp</dimen>
+    <dimen name="Fifty">50dp</dimen>
+    <dimen name="floatingSize">15dp</dimen>
+    <dimen name="sixty">70dp</dimen>
+    <dimen name="myWordSize">16sp</dimen>
+    <dimen name="myWordSizeTow">20sp</dimen>
+    <dimen name="forty">35dp</dimen>
+    <dimen name="twenty">20dp</dimen>
+    <dimen name="nine">10dp</dimen>
+    <dimen name="superWord">15sp</dimen>
+    <dimen name="Thirteen">13dp</dimen>
+    <dimen name="six">6dp</dimen>
+</resources>

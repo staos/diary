@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.yalantis.taurus.PullToRefreshView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hot_pull_to_refresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <com.example.diary.other.RefreshListView
+        android:id="@+id/hotListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:divider="@color/lightGrey"
+        android:dividerHeight="20dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentLeft="true"></com.example.diary.other.RefreshListView>
+</com.yalantis.taurus.PullToRefreshView>
